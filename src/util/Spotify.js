@@ -1,5 +1,5 @@
 const clientId = '2012ae5e81c2432b97a095ab7ed089f5'
-const redirect = 'http://physical-spiders.surge.sh'
+const redirect = 'http://jamming-spotifyv2.netlify.app'
 
 let accessToken;
 export const Spotify = {
